@@ -2,6 +2,9 @@
 # Elegant Context
 
 **Elegant Context** is a simple eCommerce web application built using **React**. It showcases a modern shopping experience where users can browse through a list of products, add them to their shopping cart, and manage the quantity of items in the cart before proceeding to checkout. This project was developed as part of a React course requirement, focusing on advanced state management using **Context API** and the **useReducer** hook.
+![image](https://github.com/user-attachments/assets/fb778515-f4f4-4edf-8d25-f39b2af08260)
+
+![image](https://github.com/user-attachments/assets/d3687c08-e52c-48b3-9a26-ea4a3e5689ad)
 
 ## Features
 
